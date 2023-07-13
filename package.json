@@ -8,11 +8,11 @@
   },
   "author": "Larsdotpy",
   "license": "ISC",
-  "dependencies": { 
-  "@badeball/cypress-cucumber-preprocessor": "latest",
-  "@cypress/webpack-preprocessor": "latest",
-  "cypress": "latest",
-  "ts-loader": "latest",
-  "typescript": "latest" 
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.1",
+    "@cypress/webpack-preprocessor": "latest",
+    "cypress": "latest",
+    "ts-loader": "latest",
+    "typescript": "latest"
   }
 }
